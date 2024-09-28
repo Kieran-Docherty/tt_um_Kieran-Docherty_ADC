@@ -1,0 +1,111 @@
+magic
+tech minimum
+timestamp 1727519137
+<< labels >>
+rlabel space 144 225 144 225 6 clk
+port 0 nsew signal input
+rlabel space 147 225 147 225 6 ena
+port 1 nsew signal input
+rlabel space 141 225 141 225 6 rst_n
+port 2 nsew signal input
+rlabel space 152 1 152 1 6 ua[0]
+port 3 nsew signal bidirectional
+rlabel space 133 1 133 1 6 ua[1]
+port 4 nsew signal bidirectional
+rlabel space 114 1 114 1 6 ua[2]
+port 5 nsew signal bidirectional
+rlabel space 94 1 94 1 6 ua[3]
+port 6 nsew signal bidirectional
+rlabel space 75 1 75 1 6 ua[4]
+port 7 nsew signal bidirectional
+rlabel space 56 1 56 1 6 ua[5]
+port 8 nsew signal bidirectional
+rlabel space 36 1 36 1 6 ua[6]
+port 9 nsew signal bidirectional
+rlabel space 17 1 17 1 6 ua[7]
+port 10 nsew signal bidirectional
+rlabel space 138 225 138 225 6 ui_in[0]
+port 11 nsew signal input
+rlabel space 136 225 136 225 6 ui_in[1]
+port 12 nsew signal input
+rlabel space 133 225 133 225 6 ui_in[2]
+port 13 nsew signal input
+rlabel space 130 225 130 225 6 ui_in[3]
+port 14 nsew signal input
+rlabel space 127 225 127 225 6 ui_in[4]
+port 15 nsew signal input
+rlabel space 125 225 125 225 6 ui_in[5]
+port 16 nsew signal input
+rlabel space 122 225 122 225 6 ui_in[6]
+port 17 nsew signal input
+rlabel space 119 225 119 225 6 ui_in[7]
+port 18 nsew signal input
+rlabel space 116 225 116 225 6 uio_in[0]
+port 19 nsew signal input
+rlabel space 114 225 114 225 6 uio_in[1]
+port 20 nsew signal input
+rlabel space 111 225 111 225 6 uio_in[2]
+port 21 nsew signal input
+rlabel space 108 225 108 225 6 uio_in[3]
+port 22 nsew signal input
+rlabel space 105 225 105 225 6 uio_in[4]
+port 23 nsew signal input
+rlabel space 103 225 103 225 6 uio_in[5]
+port 24 nsew signal input
+rlabel space 100 225 100 225 6 uio_in[6]
+port 25 nsew signal input
+rlabel space 97 225 97 225 6 uio_in[7]
+port 26 nsew signal input
+rlabel space 50 225 50 225 6 uio_oe[0]
+port 27 nsew signal tristate
+rlabel space 47 225 47 225 6 uio_oe[1]
+port 28 nsew signal tristate
+rlabel space 45 225 45 225 6 uio_oe[2]
+port 29 nsew signal tristate
+rlabel space 42 225 42 225 6 uio_oe[3]
+port 30 nsew signal tristate
+rlabel space 39 225 39 225 6 uio_oe[4]
+port 31 nsew signal tristate
+rlabel space 36 225 36 225 6 uio_oe[5]
+port 32 nsew signal tristate
+rlabel space 34 225 34 225 6 uio_oe[6]
+port 33 nsew signal tristate
+rlabel space 31 225 31 225 6 uio_oe[7]
+port 34 nsew signal tristate
+rlabel space 72 225 72 225 6 uio_out[0]
+port 35 nsew signal tristate
+rlabel space 69 225 69 225 6 uio_out[1]
+port 36 nsew signal tristate
+rlabel space 67 225 67 225 6 uio_out[2]
+port 37 nsew signal tristate
+rlabel space 64 225 64 225 6 uio_out[3]
+port 38 nsew signal tristate
+rlabel space 61 225 61 225 6 uio_out[4]
+port 39 nsew signal tristate
+rlabel space 58 225 58 225 6 uio_out[5]
+port 40 nsew signal tristate
+rlabel space 56 225 56 225 6 uio_out[6]
+port 41 nsew signal tristate
+rlabel space 53 225 53 225 6 uio_out[7]
+port 42 nsew signal tristate
+rlabel space 94 225 94 225 6 uo_out[0]
+port 43 nsew signal tristate
+rlabel space 92 225 92 225 6 uo_out[1]
+port 44 nsew signal tristate
+rlabel space 89 225 89 225 6 uo_out[2]
+port 45 nsew signal tristate
+rlabel space 86 225 86 225 6 uo_out[3]
+port 46 nsew signal tristate
+rlabel space 83 225 83 225 6 uo_out[4]
+port 47 nsew signal tristate
+rlabel space 81 225 81 225 6 uo_out[5]
+port 48 nsew signal tristate
+rlabel space 78 225 78 225 6 uo_out[6]
+port 49 nsew signal tristate
+rlabel space 75 225 75 225 6 uo_out[7]
+port 50 nsew signal tristate
+flabel space 1 5 3 221 3 FreeSans 2 0 0 0 VDPWR
+port 51 nsew power bidirectional
+flabel space 4 5 6 221 3 FreeSans 2 0 0 0 VGND
+port 52 nsew ground bidirectional
+<< end >>

@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple 8 bit ADC.
 
 ## How to test
 
-Explain how to use your project
+Input a voltage between 0V and 1.8V, expected output is a 1 bit increase per 0.2 Volts.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Signal generator / Voltage supply for input, 8 LEDs for output.
